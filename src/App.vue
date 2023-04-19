@@ -1,17 +1,16 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <pdfView></pdfView>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import pdfView from './page/pdf/pdfView.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    pdfView
   }
 }
 </script>
@@ -23,6 +22,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
