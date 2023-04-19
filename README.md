@@ -5,6 +5,9 @@
 github用的少，有些规范和习惯可能不好。  
 有问题提isuse，欢迎大家一起完善。
 
+项目预览连接：http://pdfdemo.hcolor.pro:9006/
+PDF预览连接：http://oss-cdn.hcolor.pro/assets/pdf/1.pdf
+
 
 ## vue使用pdfjs，本项目解决了哪些坑？
 
